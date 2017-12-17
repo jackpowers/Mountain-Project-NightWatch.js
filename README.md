@@ -13,7 +13,7 @@ https://github.com/dwyl/learn-nightwatch
 </div>
 
 <div align="center">
-![xkcd-wisdom-of-the-ancients](https://imgs.xkcd.com/comics/wisdom_of_the_ancients.png)
+[![xkcd-wisdom-of-the-ancients](https://imgs.xkcd.com/comics/wisdom_of_the_ancients.png)]
 </div>
 
 
