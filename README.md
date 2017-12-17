@@ -33,6 +33,8 @@ Run the Nightwatch tests:
 npm test
 ```
 
+<div align="center">
+
 ![wisdom-of-the-ancients](https://imgs.xkcd.com/comics/wisdom_of_the_ancients.png )
 
-
+</div>
