@@ -1,9 +1,11 @@
+![nightwatch-logo-with-slogan](https://cloud.githubusercontent.com/assets/194400/16045809/099207e2-3242-11e6-99d4-99b227d7a38a.png)
+
+
 # Mountain-Project-NightWatch.js
 This NightWatch.js app tests the functionality of mountainproject.com. With an Amazon S3 account, you can store test data including screenshots on S3. I created this app with the help of this tutorial:
 
 https://github.com/dwyl/learn-nightwatch
 
-![nightwatch-logo-with-slogan](https://cloud.githubusercontent.com/assets/194400/16045809/099207e2-3242-11e6-99d4-99b227d7a38a.png)
 
 ### _Want to see it work?_
 
