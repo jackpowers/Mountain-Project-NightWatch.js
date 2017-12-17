@@ -9,7 +9,7 @@ https://github.com/dwyl/learn-nightwatch
 
 ### _Want to see it?_
 
-_**Try it out**_ on your local machine in 5 mins by following these _**steps**_:
+_**Try it out**_ on your local machine (instructions for Mac) in 5 mins by following these _**steps**_:
 
 
 ### 1. Clone or download
@@ -32,6 +32,20 @@ Run the Nightwatch tests:
 ```sh
 npm test
 ```
+
+_**You should see something like this in your Terminal window:**_
+
+<div align="center">
+
+![screenshot](https://github.com/jackpowers/Mountain-Project-NightWatch.js/blob/master/Screen%20Shot%202017-12-17%20at%201.58.56%20PM.png)
+
+</div>
+
+_**For troubleshooting and more information on building NightWatch.js apps try:**_
+
+https://github.com/dwyl/learn-nightwatch
+
+_**Or Google it:**_
 
 <div align="center">
 
