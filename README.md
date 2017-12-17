@@ -2,14 +2,14 @@
 
 
 # Mountain-Project-NightWatch.js
-This NightWatch.js app tests the functionality of mountainproject.com. With an Amazon S3 account, you can store test data including screenshots on S3. I created this app with the help of this tutorial:
+This NightWatch.js app tests the functionality of mountainproject.com. With an Amazon S3 account, you can store test data including screenshots on S3. The app can also be configured to use SauceLabs for testing on multiple browsers and simulated devices. I created this app with the help of this tutorial:
 
 https://github.com/dwyl/learn-nightwatch
 
 
-### _Want to see it work?_
+### _Want to see it?_
 
-_**Try it**_ on your local machine in 5 mins by following these _**3 easy steps**_:
+_**Try it out**_ on your local machine in 5 mins by following these _**steps**_:
 
 
 ### 1. Clone or download
@@ -25,7 +25,6 @@ including Selenium Server and `chromedriver`:
 npm install
 ```
 
-
 ### 3. Run 
 
 Run the Nightwatch tests:
@@ -34,6 +33,6 @@ Run the Nightwatch tests:
 npm test
 ```
 
-
+![wisdom-of-the-ancients](https://imgs.xkcd.com/comics/wisdom_of_the_ancients.png )
 
 
