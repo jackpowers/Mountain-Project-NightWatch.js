@@ -1,20 +1,37 @@
 # Mountain-Project-NightWatch.js
-This NightWatch.js app tests the functionality of mountainproject.com. I created this app based on this tutorial:
+This NightWatch.js app tests the functionality of mountainproject.com. With an Amazon S3 account, you can store test data including screenshots on S3. I created this app based on this tutorial:
 
 https://github.com/dwyl/learn-nightwatch
 
 ![nightwatch-logo-with-slogan](https://cloud.githubusercontent.com/assets/194400/16045809/099207e2-3242-11e6-99d4-99b227d7a38a.png)
 
-<div align="center">
+### _Want to see it work?_
 
-[![Codeship Build Status](https://img.shields.io/codeship/d9151e40-1473-0134-47e0-12348d1f3442.svg?style=flat-square)](https://codeship.com/projects/157818)
-[![Dependency Status](https://img.shields.io/david/dwyl/learn-nightwatch.svg?style=flat-square)](https://david-dm.org/dwyl/learn-nightwatch)
-[![devDependency Status](https://img.shields.io/david/dev/dwyl/learn-nightwatch.svg?style=flat-square)](https://david-dm.org/dwyl/learn-nightwatch#info=devDependencies)
-</div>
+_**Try it**_ on your local machine in 5 mins by following these _**3 easy steps**_:
 
-<div align="center">
-[![xkcd-wisdom-of-the-ancients](https://imgs.xkcd.com/comics/wisdom_of_the_ancients.png)]
-</div>
+
+### 1. Clone or download
+
+Clone or download this repository
+
+### 2. Install<sup>1</sup>
+
+Install the *required* dependencies
+including Selenium Server and `chromedriver`:
+
+```sh
+npm install
+```
+
+
+### 3. Run (_tests_)<sup>2</sup>
+
+Run the Nightwatch tests:
+
+```sh
+npm test
+```
+
 
 
 
